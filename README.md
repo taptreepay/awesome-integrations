@@ -12,9 +12,7 @@ TapTree is revolutionizing the way online payments are processed by embedding en
 
 Currently, our list includes:
 
-### 🛒 WooCommerce Plugin
-- **Description:** Seamlessly integrate TapTree's eco-conscious payment processing into your WooCommerce store.
-- **Installation:** [WooCommerce Plugin Documentation](https://github.com/taptreepay/taptree-woocommerce)
+- 🛒 [WooCommerce Plugin](https://github.com/taptreepay/taptree-woocommerce)
 
 ## 🤝 Contributing
 
