@@ -24,6 +24,6 @@ This repository and its contents are licensed under the [MIT License](LICENSE.md
 
 ## ✨ Stay Connected
 
-For the latest updates, follow us on [LinkedIn](https://www.linkedin.com/company/taptree).
+For the latest updates, follow us on [LinkedIn](https://www.linkedin.com/company/taptreepay).
 
 Join us in making every online transaction a step towards a greener planet! 🌍💚
