@@ -12,7 +12,7 @@ TapTree is revolutionizing the way online payments are processed by embedding en
 
 Currently, our list includes:
 
-- 🛒 [WooCommerce Plugin](https://github.com/taptreepay/taptree-woocommerce)
+- 🛒 [WooCommerce](https://github.com/taptreepay/taptree-woocommerce)
 
 ## 🤝 Contributing
 
